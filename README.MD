@@ -83,4 +83,11 @@ export  $initHighlight;
 | Nombre | Apellido | Documento |
 | ------ | -------- |-----------|
 | Maxi | Burgos | 712313 | 
-| Tomas | Erazo | 351233 | 
+| Tomas | Erazo | 351233 |
+
+# Citas
+Esto es un texto referente a una cita que pondremos debajo:
+> esto es una cita.
+
+Esto es otro texto
+>Esto es otra cita. 
